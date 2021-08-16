@@ -1,0 +1,16 @@
+project:
+  name: spring-cloud-config
+
+
+---
+spring.profiles: dev
+
+project:
+  name: dev-spring-cloud-config
+
+
+---
+spring.profiles: prod
+
+project:
+  name: prods-spring-cloud-config
