@@ -1,5 +1,5 @@
 project:
-  name: spring-cloud-bus-config
+  name: spring-cloud-config
 
 
 ---
