@@ -1,5 +1,9 @@
 project:
   name: spring-cloud-config
+spring:
+  cloud:
+    config:
+      override-none: true
 
 
 ---
